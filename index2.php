@@ -4,7 +4,7 @@
 	Created On : 01-05-2016
 	Purpose : API to ticket creation
 
-
+//esto no importa
 */
 error_reporting(0);
 $domain='http://yourdomain.com/support/';
